@@ -1,0 +1,6 @@
+nome = input("Digite o seu nome: ")
+peso = input("Digite o seu Peso: ")
+idade = input("Digite sua idade: ")
+end = input("Digite sua rua: ")
+hobby = input("Qual o seu hobby?: ")
+print("Oi", nome, "o seu peso é ", peso, "você tem ", idade, "anos", "seu endereço é ", end, "e seu hobby favorito é ", hobby)

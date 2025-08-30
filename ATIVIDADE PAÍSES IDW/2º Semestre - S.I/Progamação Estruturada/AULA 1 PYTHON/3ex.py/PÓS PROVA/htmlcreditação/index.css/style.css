@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: rgb(106, 209, 132);
+}
+header{
+    background-color: rgb(26, 163, 95);
+    color: rgb(19, 131, 78);
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    padding: 10px;
+}
+nav ul a{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    list-style: none;
+}
+nav ul a{
+    display: inline;
+    margin: 50px;
+}
+
+nav a hover{
+    color:rgb(230, 253, 17);
+    text-decoration: underline;
+}
+main{
+    padding: 50px;
+    max-width: 800px;
+    margin 0 auto;
+}
+
+.Pagina{
+    margin-bottom: 30px;
+    background-color: aquamarine;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.Pagina h2{
+    margin: 10px;
+    color: rgb(0, 255, 106);
+    border-bottom: 2px solid yellow;
+    padding-bottom: 5px;
+}
+
+.item img{
+    width: 500px;
+    margin-left: 100px;
+}
+

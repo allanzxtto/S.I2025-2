@@ -1,0 +1,5 @@
+print("Hello World")
+print("Olá, eu sou o Allan Menezes")
+print("Eu estou no primeiro semestre no curso de SI")
+print("Nessa disciplina irei aprender a desenvolver meus primeiros códigos em Python")
+input("digite algo")
